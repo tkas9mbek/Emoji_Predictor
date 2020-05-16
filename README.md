@@ -3,7 +3,7 @@ In this project, we will demonstrate an application that gets a text as input an
 emotional context of the text and associate with the proper emoji.
 
 # How to run?
-`python GUI.py`
-To train model and run desktop application.
-`python model_train_and_test.py`
+`python GUI.py`<br>
+To train model and run desktop application.<br>
+`python model_train_and_test.py`<br>
 To train model and test on testing set.
